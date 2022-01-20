@@ -5,9 +5,6 @@ function setup() {
 console.log("Hello there");
 speed = 25;
 x = 200;
-wHalf = windowWidth/2;
-hHalf = windowHeight/2;
-
   function draw() {
     background(120, 185, 160);
 
