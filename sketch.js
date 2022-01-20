@@ -29,7 +29,7 @@ x = 200;
     //top left square
     strokeWeight(5);
     stroke(0);
-    fill(193, 201, 62);
+    fill(93, 201, 62);
     rect(windowWidth, windowHeight/2, -windowWidth/2);
 
     x += speed;
